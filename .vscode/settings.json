@@ -8,5 +8,7 @@
     "watch": false,
     "onSave": "test-file",
     "onStartup": ["all-tests"]
-  }
+  },
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/5bd04998-4e49-4563-84cd-e96074192b5d/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/form-creater",
+  "appService.deploySubpath": "."
 }
